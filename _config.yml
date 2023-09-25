@@ -41,14 +41,11 @@ liquid:
 
 # Build settings
 remote_theme: mmistakes/jekyll-theme-basically-basic
-markdown: kramdown
 plugins: # previously gems
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-feed:
-  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
