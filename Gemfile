@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-# # Jekyll plugins
+# Jekyll plugins
 gem "jekyll-paginate"
 
