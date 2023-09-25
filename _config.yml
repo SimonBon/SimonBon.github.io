@@ -9,7 +9,7 @@ logo: assets/images/GITHUB_LOGO.png
 url: simonbon.com
 author: Simon Gutwein
 
-gems:
+plugins:
   - jekyll-paginate
 
 navigation_pages:
