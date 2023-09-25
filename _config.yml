@@ -40,8 +40,8 @@ liquid:
   error_mode: strict
 
 # Build settings
+remote_theme: mmistakes/jekyll-theme-basically-basic
 markdown: kramdown
-theme: jekyll-theme-basically-basic
 plugins: # previously gems
   - jekyll-feed
   - jekyll-seo-tag
