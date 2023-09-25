@@ -1,4 +1,4 @@
-remote_theme: jekyll/minima
+remote_theme: mmistakes/jekyll-theme-basically-basic
 
 title: Your Site Title
 email: your-email@example.com
