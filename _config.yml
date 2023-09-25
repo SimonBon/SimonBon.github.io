@@ -14,15 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+title: Simon Gutwein
+email: simon.bonvino@gmail.com
+description: "Nothing to see here!"
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
-  picture: /assets/images/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+  name: Simon Gutwein
+github_username: SimonBon
 
 # # Liquid
 # liquid:
@@ -34,5 +31,5 @@ plugins: # previously gems
   - jekyll-paginate
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 5
 paginate_path: /page:num/
