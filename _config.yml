@@ -8,3 +8,7 @@ github_username: SimonBon
 logo: assets/images/GITHUB_LOGO.png
 url: simonbon.com
 author: Simon Gutwein
+
+navigation_pages:
+  - HelloWorld.md
+  - about.md
