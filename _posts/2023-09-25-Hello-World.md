@@ -11,6 +11,11 @@ tags:
   - image
   - layout
 last_modified_at: 2023-03-25T23:25:52-05:00
+
+actions:
+  - label: "Checkout my GitHub"
+    icon: github
+    url: "https://github.com/SimonBon"
 ---
 
 # Decoding the Enigma of Blogging: A Feline Perspective 🐱
