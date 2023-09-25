@@ -4,6 +4,10 @@ layout: home
 paginate: true
 ---
 
+## Unraveling the Mysteries of AI in Medicine
+
+Dive into a world where technology meets healthcare, explore groundbreaking research, and join me on a journey through the transformative landscape of Artificial Intelligence in medicine. Discover the potential, share the knowledge, and envision the future of healthcare with AI!
+
 {% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p>{{ post.excerpt }}</p>
@@ -25,7 +29,3 @@ paginate: true
     {% endif %}
   </span>
 </div>
-
-## Unraveling the Mysteries of AI in Medicine
-
-Dive into a world where technology meets healthcare, explore groundbreaking research, and join me on a journey through the transformative landscape of Artificial Intelligence in medicine. Discover the potential, share the knowledge, and envision the future of healthcare with AI!
