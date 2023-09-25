@@ -12,7 +12,4 @@ actions:
   - label: "Get Started"
     icon: github
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-  - label: "Download"
-    icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
 ---
