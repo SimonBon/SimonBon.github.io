@@ -9,6 +9,9 @@ logo: assets/images/GITHUB_LOGO.png
 url: simonbon.com
 author: Simon Gutwein
 
+gems:
+  - jekyll-paginate
+
 navigation_pages:
   - HelloWorld.md
   - about.md
@@ -16,5 +19,3 @@ navigation_pages:
 paginate: 5  # amount of posts to show per page
 paginate_path: /page:num/
 
-gems:
-  - jekyll-paginate
