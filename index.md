@@ -1,5 +1,7 @@
 ---
 title: Welcome to Simon's Digital Lab
+layout: home
+paginate: true
 ---
 
 ## Unraveling the Mysteries of AI in Medicine
