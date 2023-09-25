@@ -36,9 +36,6 @@ search_full_content: true
 # # Build settings
 remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins: # previously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-paginate
 
 # # Pagination - https://jekyllrb.com/docs/pagination/
