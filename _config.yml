@@ -1,11 +1,10 @@
 remote_theme: mmistakes/jekyll-theme-basically-basic
 
-lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+lang: de
+title: MSc. Simon Gutwein
+email: simon.bonvino@gmail.com
+description: Simon Gutweins' Personal Webpage 
+github_username: SimonBon
 logo: assets/images/GITHUB_LOGO.png
-search: true
-search_full_content: true
+url: simonbon.com
+author: Simon Gutwein
