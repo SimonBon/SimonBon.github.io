@@ -1,6 +1,6 @@
 ---
 title: "Hello World! - and everyone else"
-image: /assets/images/fynn_fine.jpeg
+image: /assets/images/fynn_fine_small.jpeg
 layout: post
 categories:
   - Layout
