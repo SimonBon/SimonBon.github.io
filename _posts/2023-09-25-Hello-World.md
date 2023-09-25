@@ -1,5 +1,6 @@
 ---
 title: "Hello World! - and everyone else"
+thumbnail: /assets/images/fynn_fine.jpeg
 categories:
   - random
 tags:
@@ -12,7 +13,8 @@ last_modified_at: 2023-03-25T23:25:52-05:00
 
 Ah, the ubiquitous blog post! A canvas where words dance in a harmonious ballet, painting vivid tapestries of thought, and where every sentence is a brushstroke contributing to the masterpiece of online enlightenment. Or so they say…
 
-![Fynn The Lord][/assets/images/fynn_fine.jpeg]
+image:
+  path: /assets/images/fynn_fine.jpeg
 
 Behold! The majestic feline in the image above, nonchalantly gazing into the void, epitomizes the collective reaction of the internet populace scrolling through the endless sea of blog posts. "Another one?" it seems to ponder, its whiskers twitching in mild amusement and its tail flicking with feigned interest.
 
