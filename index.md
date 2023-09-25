@@ -1,1 +1,3 @@
-# this is some text that i want to be displayed
+---
+title: This is a test
+---
