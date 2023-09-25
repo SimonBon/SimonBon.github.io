@@ -30,3 +30,5 @@ Is it the eloquence of prose, the allure of storytelling, or the universal truth
 So, dear reader, as you navigate the labyrinth of the blogging world, remember to embrace the diversity of voices, savor the symphony of ideas, and occasionally, enjoy a good laugh at the absurdity of it all. After all, in the grand tapestry of the internet, every blog post, no matter how trivial, adds a unique thread to the woven story of our digital existence.
 
 And who knows, maybe somewhere in the vast expanse of cyberspace, a cat is writing a blog post, making light of the human penchant for overthinking and overwriting, all while plotting world domination. But that’s a story for another day…
+
+![Alt Text](/assets/images/fynn_fine_smaller.jpeg)
