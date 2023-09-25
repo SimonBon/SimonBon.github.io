@@ -1,5 +1,6 @@
-
-# Welcome to Simon's Digital Lab
+---
+title: Welcome to Simon's Digital Lab
+---
 
 ## Unraveling the Mysteries of AI in Medicine
 
