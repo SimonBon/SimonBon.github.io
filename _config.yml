@@ -15,3 +15,6 @@ navigation_pages:
 
 paginate: 5  # amount of posts to show per page
 paginate_path: /page:num/
+
+gems:
+  - jekyll-paginate
