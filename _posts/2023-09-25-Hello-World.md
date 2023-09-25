@@ -1,6 +1,7 @@
 ---
 title: "Hello World! - and everyone else"
 image: /assets/images/fynn_fine.jpeg
+layout: post
 categories:
   - Layout
 tags:
@@ -8,7 +9,6 @@ tags:
   - image
   - layout
 last_modified_at: 2023-03-25T23:25:52-05:00
-
 ---
 
 # Decoding the Enigma of Blogging: A Feline Perspective 🐱
