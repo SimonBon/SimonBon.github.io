@@ -13,9 +13,9 @@ tags:
 last_modified_at: 2023-03-25T23:25:52-05:00
 
 actions:
-  - label: "Checkout my GitHub"
+  - label: "Checkout This"
     icon: github
-    url: "https://github.com/SimonBon"
+    url: "https://www.nyan.cat"
 ---
 
 # Decoding the Enigma of Blogging: A Feline Perspective 🐱
