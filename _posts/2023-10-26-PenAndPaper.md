@@ -131,7 +131,9 @@ The core principle driving the simulations in FightSimulator is the concept of e
 
 Let's break down the formula:
 
-$$ E(D) = P(A) \times P(\neg B) \times E(D) $$
+$$ 
+E(D) = P(A) \times P(\neg B) \times E(D) 
+$$
 
 Where:
 
