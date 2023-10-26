@@ -135,7 +135,7 @@ $$ E(D) = P(A) \times P(\neg B) \times E(D) $$
 
 Where:
 
-- $ E(D)$ is the expected damage.
+- $$ E(D) $$ is the expected damage.
 - $ P(A)$ is the probability that the attacker hits. It's determined by the attacker's hit value and a random dice roll.
 - $ P(\neg B)$ is the probability that the defender doesn't block. Like $ P(A)$, it's influenced by the defender's block value and a dice roll.
 - $ E(D)$ on the right side of the equation represents the expected value of the sum of all dice from one user.
