@@ -1,7 +1,7 @@
 ---
 title: "Achieve Perfect Harmony: Game Master’s Guide to Balancing Combat"
-#image: 
-    #path: None #/assets/images/fynn_fine_small.jpeg
+image: 
+    path: /assets/images/P&P.png
     #thumbnail: /assets/images/fynn_fine_smaller.jpeg
 layout: post
 categories:
