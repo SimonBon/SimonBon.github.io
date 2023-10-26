@@ -33,7 +33,3 @@ plugins: # previously gems
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 5
 paginate_path: /page:num/
-
-markdown: kramdown
-kramdown:
-    math_engine: katex
