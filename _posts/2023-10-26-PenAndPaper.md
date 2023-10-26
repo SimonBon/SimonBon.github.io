@@ -65,7 +65,7 @@ Ever wondered what powers FightSimulator? It's a blend of the "How to be a Hero"
 1. **User-Friendly Design**: A simple interface to input stats and view results. Plus, it works beautifully on all devices.
 2. **Crafty Algorithms**: The backbone of the tool, these algorithms simulate battles based on the "How to be a Hero" combat rules.
 
-## Trust But Verify: Validating FightSimulator with Math
+<!-- ## Trust But Verify: Validating FightSimulator with Math
 
 While FightSimulator is a powerful tool, we wanted to ensure its predictions are accurate. By diving deep into RPG math, we've ensured that the tool's results align with tried-and-tested RPG combat principles.
 
@@ -88,7 +88,7 @@ Where:
 
 ### Math Validates FightSimulator
 
-By matching FightSimulator's results with these calculations, we ensure its accuracy, giving GMs confidence in its predictions.
+By matching FightSimulator's results with these calculations, we ensure its accuracy, giving GMs confidence in its predictions. -->
 
 ---
 
