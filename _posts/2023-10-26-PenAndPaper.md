@@ -72,3 +72,4 @@ After creating such a robust tool like FightSimulator, it's evident that the int
 ---
 
 Discover more and embark on your own simulations with [FightSimulator on GitHub](https://github.com/SimonBon/FightSimulator).
+
