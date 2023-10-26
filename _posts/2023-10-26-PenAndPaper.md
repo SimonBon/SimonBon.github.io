@@ -131,16 +131,14 @@ The core principle driving the simulations in FightSimulator is the concept of e
 
 Let's break down the formula:
 
-\[
-E(D) = P(A) \times P(\neg B) \times E(D)
-\]
+$E(D) = P(A) \times P(\neg B) \times E(D)$
 
 Where:
 
-- \( E(D) \) is the expected damage.
-- \( P(A) \) is the probability that the attacker hits. It's determined by the attacker's hit value and a random dice roll.
-- \( P(\neg B) \) is the probability that the defender doesn't block. Like \( P(A) \), it's influenced by the defender's block value and a dice roll.
-- \( E(D) \) on the right side of the equation represents the expected value of the sum of all dice from one user.
+- $ E(D)$ is the expected damage.
+- $ P(A)$ is the probability that the attacker hits. It's determined by the attacker's hit value and a random dice roll.
+- $ P(\neg B)$ is the probability that the defender doesn't block. Like $ P(A)$, it's influenced by the defender's block value and a dice roll.
+- $ E(D)$ on the right side of the equation represents the expected value of the sum of all dice from one user.
 
 In cases where the attacker rolls a value below or equal to 10% of their initial value, the damage doubles, introducing an element of critical hit into the formula.
 
